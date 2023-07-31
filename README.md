@@ -20,4 +20,4 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 <br><br>
 <h3>My Repositories</h3>
 
-[Portfolio]()
+<b>[Portfolio]()</b>
