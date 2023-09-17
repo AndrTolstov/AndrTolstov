@@ -11,6 +11,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, A/B-tests
 
 <h3>My Repositories</h3>
 
+<b>[Dashboard for "Bolid"](https://github.com/AndrTolstov/Portfolio)</b>
 <b>[Portfolio](https://github.com/AndrTolstov/Portfolio)</b>
 
 ### Connect with me:
