@@ -13,7 +13,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, A/B-tests
 
 <b>[Dashboards](https://github.com/AndrTolstov/Dashboards)</b>
 
-<b>[Portfolio](https://github.com/AndrTolstov/Portfolio)</b>
+<b>[Yandex Practicum Portfolio](https://github.com/AndrTolstov/Portfolio)</b>
 
 ### Connect with me:
 <p><a href="https://t.me/Andr_Tolstov"><img src="https://mw.lojban.org/images/thumb/8/82/Telegram_logo.svg/1198px-Telegram_logo.svg.png?20160516070326" height=25></a>
