@@ -9,6 +9,9 @@ SQL, PostgreSQL
 ###### Data Science: 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, A/B-tests
 
+###### BI: 
+Tableau, DataLens
+
 <h3>My Repositories</h3>
 
 <b>[Dashboards](https://github.com/AndrTolstov/Dashboards)</b>
