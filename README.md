@@ -7,7 +7,7 @@
 SQL, PostgreSQL
 
 ###### Data Science: 
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, A/B-tests
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, Plotly, A/B-tests
 
 ###### BI: 
 Tableau, DataLens
