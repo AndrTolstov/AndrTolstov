@@ -10,7 +10,7 @@ SQL, PostgreSQL
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, Plotly, A/B-tests
 
 ###### BI: 
-Tableau, DataLens
+Tableau, DataLens, PowerBI
 
 <h3>My Repositories</h3>
 
